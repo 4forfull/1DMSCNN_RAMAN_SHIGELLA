@@ -12,13 +12,12 @@ def CNN_pre(filepath):
 
     X = np.expand_dims(df.values[:, 0:630].astype(float), axis=2)
 
-    json_file = open(r"Multiscale-CNN-4.json", "r")
+    json_file = open(r"Multiscale-CNN.json", "r")
     loaded_model_json = json_file.read()
     json_file.close()
     loaded_model = model_from_json(loaded_model_json)
-    loaded_model.load_weights("Multiscale-CNN-4.h5")
+    loaded_model.load_weights("Multiscale-CNN.h5")
 
-    # 输出预测类别
     predicted_label = loaded_model.predict(X)
     predicted_label = np.argmax(predicted_label, axis=1)
     predicted_pro = loaded_model.predict(X)
@@ -38,5 +37,5 @@ def CNN_pre(filepath):
 
 
 if __name__ == "__main__":
-    file_path = 'D:/pythonjinjie/Shigella_software/demo/S.flexneri.csv'
+    file_path = './demo.csv'
     CNN_pre(file_path)
