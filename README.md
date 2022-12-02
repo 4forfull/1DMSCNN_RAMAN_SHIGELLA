@@ -17,9 +17,11 @@ scikit-learn 0.21.3
 [**model**](https://github.com/4forfull/1DMSCNN_RAMAN_SHIGELLA/blob/main/model.py): Load the pre-trained model, the spectral data of shigella spp were predicted.  
 [**curve**](https://github.com/4forfull/1DMSCNN_RAMAN_SHIGELLA/blob/main/curve.py): Visualize the raw spectral data and fit the characteristic peaks.  
 # **Usage**  
-Run the [main.py](https://github.com/4forfull/1DMSCNN_RAMAN_SHIGELLA/blob/main/main.py) file  
+Run the [main.py](https://github.com/4forfull/1DMSCNN_RAMAN_SHIGELLA/blob/main/main.py) file.  
 Click "OPEN" and select the data you want to analyze. The demo data is given in the [demo](https://github.com/4forfull/1DMSCNN_RAMAN_SHIGELLA/tree/main/demo) folder.  
 ![image](https://github.com/4forfull/1DMSCNN_RAMAN_SHIGELLA/blob/main/Figure/read_file%26curve.png)  
+Click "RUN" to execute the model file, and the software will automatically analyze the types of shigella.  
+![image](https://github.com/4forfull/1DMSCNN_RAMAN_SHIGELLA/blob/main/Figure/model_predict.png)  
 # **Contact**  
 name
 **E-mail**: 
