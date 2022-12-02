@@ -4,6 +4,7 @@ This repository provides the implementation for our paper Multiscale deep learni
 The current install version of EasyCID only supports Windows 64-bit version.  
 **Download Link:** https://github.com/4forfull/1DMSCNN_RAMAN_SHIGELLA/blob/main/Software/Multiscale-CNN.json  
 **Note:** Once downloaded, unzip it and do not change the default folder name.  
+# **Requirements**  
 
 
 
