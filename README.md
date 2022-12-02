@@ -5,6 +5,13 @@ The current install version of EasyCID only supports Windows 64-bit version.
 **Download Link:** https://github.com/4forfull/1DMSCNN_RAMAN_SHIGELLA/blob/main/Software/Multiscale-CNN.json  
 **Note:** Once downloaded, unzip it and do not change the default folder name.  
 # **Requirements**  
+keras 2.4.3  
+matplotlib 3.1.1  
+numpy 1.18.5  
+pandas 0.25.1  
+python 3.7  
+pyqt5 5.15.4  
+scikit-learn 0.21.3  
 
 
 
