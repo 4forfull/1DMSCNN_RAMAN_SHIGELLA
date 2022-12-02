@@ -16,6 +16,11 @@ scikit-learn 0.21.3
 [**main**](https://github.com/4forfull/1DMSCNN_RAMAN_SHIGELLA/blob/main/main.py): This is the main interface of the software, all the functions are integrated in it.  
 [**model**](https://github.com/4forfull/1DMSCNN_RAMAN_SHIGELLA/blob/main/model.py): Load the pre-trained model, the spectral data of shigella spp were predicted.  
 [**curve**](https://github.com/4forfull/1DMSCNN_RAMAN_SHIGELLA/blob/main/curve.py): Visualize the raw spectral data and fit the characteristic peaks.  
+# **Usage**  
+
+# **Contact**  
+name
+**E-mail**: 
 
 
 
