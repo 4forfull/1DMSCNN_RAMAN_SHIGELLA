@@ -12,11 +12,11 @@ def CNN_pre(filepath):
 
     X = np.expand_dims(df.values[:, 0:630].astype(float), axis=2)
 
-    json_file = open(r"Multiscale-CNN-4.json", "r")
+    json_file = open(r"1DMSCNN.json", "r")
     loaded_model_json = json_file.read()
     json_file.close()
     loaded_model = model_from_json(loaded_model_json)
-    loaded_model.load_weights("Multiscale-CNN-4.h5")
+    loaded_model.load_weights("1DMSCNN.h5")
 
     predicted_label = loaded_model.predict(X)
     predicted_label = np.argmax(predicted_label, axis=1)
