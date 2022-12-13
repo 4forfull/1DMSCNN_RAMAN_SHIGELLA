@@ -24,7 +24,7 @@ Click "RUN" to execute the model file, and the software will automatically analy
 ![image](https://github.com/4forfull/1DMSCNN_RAMAN_SHIGELLA/blob/main/Figure/model_predict.png)  
 # **Contact**  
 Name: Name: Prof. Liang Wang, Jia-Wei Tang.  
-**E-mail**: 
+**E-mail**: wangliang@gdph.org.cn, 15061183455@163.com.  
 
 
 
