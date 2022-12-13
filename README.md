@@ -1,9 +1,9 @@
 # **1DMSCNN_RAMAN_SHIGELLA**
-This repository provides the implementation for our paper **RADOS: a new tool for Shigella spp. discrimination via label-free SERS coupling with multi-scale deep learning**. Our experiments show that RADOS can be used as a practical and efficient tool for Shigella Raman spectroscopy analysis. RADOS provides two functions for input spectral data: peak search, and identify the unknown samples automatically and efficiently. In RADOS, all the above functions can be easily implemented with the assistance of the graphical user interface (GUI).
+This repository provides the implementation for our paper **RADOS: a new tool for Shigella spp. discrimination via label-free SERS coupling with multi-scale deep learning** by Briefings in Bioinformatics. Our experiments show that RADOS can be used as a practical and efficient tool for Shigella SERS spectral analysis. RADOS provides two functions for input spectral data: peak search, and identify the unknown samples automatically and efficiently. 
 # **Installation**
 The current install version of RADOS only supports Windows 64-bit version.  
 **Download Link:** [**Baidu SkyDrive**](https://pan.baidu.com/s/10gI09jCN2L5xXC-Xzdp-Ug?pwd=l04q)  
-**Note:** Once downloaded, unzip it and do not change the default folder name.  
+**Note:** Once the software is downloaded, please unzip the file and keep the folder name in default.  
 # **Requirements**  
 keras 2.4.3  
 matplotlib 3.1.1  
