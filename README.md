@@ -23,7 +23,7 @@ Click "OPEN" and select the data you want to analyze. The demo data is given in 
 Click "RUN" to execute the model file, and the software will automatically analyze the types of shigella.  
 ![image](https://github.com/4forfull/1DMSCNN_RAMAN_SHIGELLA/blob/main/Figure/model_predict.png)  
 # **Contact**  
-Name: Name: Prof. Liang Wang, Jia-Wei Tang.  
+**Name**: Prof. Liang Wang, Jia-Wei Tang.  
 **E-mail**: wangliang@gdph.org.cn, 15061183455@163.com.  
 
 
